@@ -1,7 +1,7 @@
 # Inventory_analysis using Tableau
 Dashboard for Inventory Analysis on the superstore dataset using a BI tool, Tableau.
 
-![Dashboard 1](https://user-images.githubusercontent.com/54266270/236672320-fef06e17-ad7b-490b-be23-3f6cd65f92a6.png)
+![download (2)](https://user-images.githubusercontent.com/54266270/236672366-dd52ee18-73ee-4955-9b8c-e05ed6d49d4f.jpg)
 
 
 # Following insights were represented in the dashbaord:
